@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="categories">http://t24.com.tr/api/v3/categories.json?type=story</string>
+    <string name="category_news"> http://t24.com.tr/api/v3/stories.json?category=</string>
+    <string name="news_detail">http://t24.com.tr/api/v3/stories.json?story=</string>
+    <string name="main_news"> http://t24.com.tr/api/v3/stories.json?paging=</string>
+</resources>
